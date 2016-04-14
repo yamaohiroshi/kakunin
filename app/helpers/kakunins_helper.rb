@@ -1,0 +1,2 @@
+module KakuninsHelper
+end
